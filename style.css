@@ -1,0 +1,44 @@
+body {
+    background-image: linear-gradient(rgba(255, 224, 246, 0.5), rgba(255, 224, 246, 0.5)),
+    url("imagem-fundo.jpg");
+}
+
+table {
+    font-family: 'Varela Round', sans-serif;
+    margin-top: 3%;
+    margin-left: 20%;
+    float: left;
+    width: 20%;
+    
+}
+
+button {
+    border: none;
+    background-color: none;
+
+} 
+
+table th {
+    background-color: lightpink;
+    text-align: center;
+}
+
+table td {
+    background-color: palevioletred;
+}
+
+.header {
+    font-family: 'Fredoka One', cursive;
+    color: rgb(255, 184, 143);
+    font-size: 50px;
+    text-align: center;
+    margin: 30px;
+    background-color: rgba(255, 255, 255, 0.5);
+    text-shadow: 1px 1px 2px black;
+
+}
+
+.btn-cart {
+    position: absolute;
+    bottom: 100px;
+}
